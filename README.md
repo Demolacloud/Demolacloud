@@ -1,5 +1,7 @@
 - 👋 Hi, I’m @Demolacloud
-- 👀 I’m interested in Softtware Engineering
+- 👀 I’m a Data analyst & .NET Developer
+- 📊 DATA
+- ☁️CLOUD
 - 🌱 I’m currently learning .NET Development
 - 💞️ I’m looking to collaborate on Open Source
 - 📫 How to reach me Demolacreate@gmail.com
